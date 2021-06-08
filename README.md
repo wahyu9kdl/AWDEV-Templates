@@ -1,2 +1,2 @@
 # Templates
-Belajar Membuat Template website Menggunakan Boterstrop
+Belajar Membuat Template website Menggunakan Bootstrap 
