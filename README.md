@@ -1,15 +1,25 @@
-# AWDEV Templates
+# THEME
 
-Download Templates CMS , XML , ADMIN , DASHBOARD , LANDING PAGE .
-STOK Templates [AWDEV DEVOLOPER](https://awdev.eu.org)
-Semua Stok Templates Tersedia di site yang di kelola [Awdev](https://awdev.eu.org)
-berikut ini :
+Free Blogger Templates awdev Corporation
+
+## AWDEV CORPORATION 
+
+### About Us
+
+Daftar situs AWDEV CORPORATION berikut ini :
 www.awdev.eu.org
 www.pub-awdev.blogspot.com
 www.wahyu9kdl.github.io
 www.alhikmah.my.id
 www.awgroupchannel.my.id
 www.wahyu9kdl.medium.com
+
+
+### TEMPLATES ( FREE THEME )
+
+Download Templates CMS , XML , ADMIN , DASHBOARD , LANDING PAGE .
+STOK Templates [AWDEV DEVOLOPER](https://awdev.eu.org)
+Semua Stok Templates Tersedia di site yang di kelola [Awdev](https://awdev.eu.org)
 
 # XML Templates
 
